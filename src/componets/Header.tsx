@@ -1,7 +1,9 @@
 const Header = () => {
   return (
+
+
     <div className="bg-slate-100 p-4 sm:p-2">
-      <div className="flex flex-col sm:flex-row items-center gap-6 sm:gap-0 mx-5 sm:mx-10 mt-5 justify-between">
+      <div className="flex flex-col  sm:flex-row items-center      gap-6 sm:gap-0 mx-5 sm:mx-16 mt-5 justify-between">
         <div className="flex flex-row gap-1 items-center">
 
 
@@ -32,8 +34,8 @@ const Header = () => {
         </div>
       </div>
 
-      <div className="flex flex-col sm:flex-row sm:mt-5 justify-between items-center mx-5 sm:mx-10 gap-10 sm:gap-5 mt-10">
-                <div className="w-full sm:w-[60%] flex flex-col items-center sm:items-start text-center sm:text-left">
+      <div className="flex flex-col sm:flex-row sm:mt-5 justify-between items-center mx-5 sm:mx-24 gap-16 sm:gap-5 mt-10">
+                <div className="w-full sm:w-[60%]  flex flex-col items-center sm:items-start text-center sm:text-left">
           <strong className="text-3xl sm:text-5xl block leading-tight">Lessons and insights</strong>
     
     
@@ -47,7 +49,7 @@ const Header = () => {
         </div>
 
         <div className="w-full sm:w-[35%] flex justify-center">
-          <img      className="w-full max-w-[300px] sm:max-w-[391px] h-auto object-contain"
+          <img      className="w-full max-w-[300px] sm:max-w-[391px] mt-5 h-auto object-contain"
 
           
             src="./Illustration.png"

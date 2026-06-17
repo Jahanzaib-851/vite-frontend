@@ -3,11 +3,13 @@ const Helping=()=>
 
 
 return(
-<div className="  my-5  bg-slate-100 p-10  flex flex-row">
 
-<div className="w-[50%]  mx-5 sm:mx-20  ">   
+    <div className="bg-slate-100">
+<div className="  my-5 mt-32 py-16  p-10  flex flex-row">
+
+<div className="w-[40%]  mx-5 sm:mx-16  ">   
     <p   className="text-2xl sm:text-4xl">Helping a local </p>
-    <p className="text-green-600 text-2xl sm:text-4xl ">business reinvent itself</p>
+    <p className="text-green-600 text-xl sm:text-4xl ">business reinvent itself</p>
 
     <p>We reached here with our hard work and dedication</p>
 
@@ -108,6 +110,7 @@ return(
 
 
 
+</div >
 </div >
 
 )

@@ -2,7 +2,7 @@ const Three = () => {
 
   return (
 
-    <div className=" flex flex-col  sm:mt-10 sm:flex-row mx-5 sm:mx-10">
+    <div className=" flex flex-col  sm:mt-24 sm:flex-row mx-10 sm:mx-10">
 
       <div className="sm:ml-8">
 
@@ -21,7 +21,7 @@ const Three = () => {
 
 
 
-        <button className=" mt-5 p-1 bg-[#4CAF4F] text-white  px-2"> learn More
+        <button className=" mt-5 ml-28 sm:ml-0  p-1 bg-[#4CAF4F] text-white  px-2"> learn More
         </button>
 
 

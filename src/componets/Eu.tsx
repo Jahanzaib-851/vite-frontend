@@ -8,7 +8,7 @@ const Eu=()=>{
   return(
 
 
-    <div className=" items-center  gap-6  mb-6 mt-20 sm:mt-20  sm:p-10 bg-zinc-100 justify-center flex flex-col">
+    <div className="  items-center  gap-6 p-5  mb-6 mt-28 sm:mt-20  sm:p-10 bg-zinc-100 justify-center flex flex-col">
  
       <strong className=" text-2xl sm:text-5xl " >Pellentesque suscipit </strong>
       <strong className=" text-2xl sm:text-5xl "> fringilla libero eu.</strong>

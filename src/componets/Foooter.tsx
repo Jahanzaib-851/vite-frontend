@@ -4,10 +4,14 @@ import { CiTwitter } from "react-icons/ci";
 import { FaYoutube } from "react-icons/fa6";
 
 const Foooter = () => {
-  return (
-    <div className="flex flex-col sm:flex-row flex-wrap md:flex-nowrap p-10 bg-black gap-10 sm:gap-6 justify-between text-left">
+  return ( 
 
-      <div className="w-full sm:w-[45%] md:w-[30%] flex flex-col gap-4">
+
+
+    <div className=" bg-black ">
+    <div className="flex flex-col  sm:flex-row sm:mx-16 flex-wrap md:flex-nowrap p-10  gap-10 sm:gap-6 justify-between text-left">
+
+      <div className="w-full sm:w-[45%] mx-5   md:w-[30%] flex flex-col gap-4">
         <img className="w-[70px] h-[30px] object-contain" src="./Nexcent.png" alt="Logo" />
         <div>
           <p className="text-gray-400 text-sm">Copyright © 2020 Nexcent ltd.</p>
@@ -76,6 +80,7 @@ const Foooter = () => {
       </div>
 
     </div>
+    </div >
   )
 }
 
