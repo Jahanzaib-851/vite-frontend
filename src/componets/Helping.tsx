@@ -30,7 +30,7 @@ return(
             <div className="  flex flex-row items-center">
 
 
-                <img className="w-[50px] h-[50px]" src="../../public/Icon.png" alt="" />
+                <img className="w-[50px] h-[50px]" src="./public/Icon.png" alt="" />
 
                 <div className="flex flex-col ">
 
@@ -47,7 +47,7 @@ return(
             <div className="flex  flex-row items-center">
 
 
-                <img className="w-[50px] h-[50-px]" src="../../public/Icon.png" alt="" />
+                <img className="w-[50px] h-[50-px]" src="./Icon.png" alt="" />
 
                 <div className="flex flex-col ">
 
@@ -71,7 +71,7 @@ return(
             <div className="flex gap-2 flex-row items-center">
 
 
-                <img className="w-[30px] h-[30px]" src="../../public/Vector.png" alt="" />
+                <img className="w-[30px] h-[30px]" src="./Vector.png" alt="" />
 
                 <div className="flex flex-col ">
 
@@ -88,7 +88,7 @@ return(
             <div className="flex flex-row gap-2 items-center">
 
 
-                <img className="w-[30px] h-[30px]" src="../../public/Icon (7).png" alt="" />
+                <img className="w-[30px] h-[30px]" src="./Icon (7).png" alt="" />
 
                 <div className="flex flex-col ">
 

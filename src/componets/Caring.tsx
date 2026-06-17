@@ -37,7 +37,7 @@ const Caring=()=>
 <div className=" flex  flex-col sm:flex-row gap-40 sm:gap-10 mt-5 items-center justify-center ">
     <div>
 
-        <img className=" rounded w-[200px] h-[200px] " src="../../public/anti.png" alt="" />
+        <img className=" rounded w-[200px] h-[200px] " src="./anti.png" alt="" />
 
 
     </div>
@@ -45,14 +45,14 @@ const Caring=()=>
 
 
 <div>
-<img className="  rounded w-[200px] h-[200px] " src="../../public/labtop.png" alt="" />
+<img className="  rounded w-[200px] h-[200px] " src="./labtop.png" alt="" />
 
 
 </div>
 
 
 <div>
-        <img className="w-[200px] h-[200px]  rounded" src="../../public/labtop 2.png" alt="" />
+        <img className="w-[200px] h-[200px]  rounded" src="./labtop 2.png" alt="" />
 </div>
 </div>
 

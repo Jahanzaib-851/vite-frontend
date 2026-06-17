@@ -6,7 +6,7 @@ const Three = () => {
 
       <div className="sm:ml-8">
 
-        <img className="w-[100%] mt-2 h-[100%]" src="../../public/rafiki.png" alt="" />
+        <img className="w-[100%] mt-2 h-[100%]" src="./rafiki.png" alt="" />
 
 
       </div>

@@ -16,7 +16,7 @@ const Tim = () => {
 
       <div className=" w-[100%]  sm:w-[30%] ">
 
-        <img className="  sm:w-[100%] sm:h-[80%]" src="../../public/image 9.png" alt="" />
+        <img className="  sm:w-[100%] sm:h-[80%]" src="./image 9.png" alt="" />
 
       </div>
       <div className="w-[100%] sm:w-[60%] h-[120%] mt-1">
@@ -35,8 +35,8 @@ const Tim = () => {
 
           <div className="  w-[80%]  flex flex-row items-center      ">
 
-            <img src="../../public/Clients Logos.png" alt="" />
-            <img src="../../public/Clients.png Logos.png" alt="" />
+            <img src="./Clients Logos.png" alt="" />
+            <img src="./public/Clients.png Logos.png" alt="" />
 
 
           </div>

@@ -6,8 +6,8 @@ const Header = () => {
 
 
 
-          <img className="w-[20px] h-[20px]" src="../../public/Icon (1).png" alt="" />
-          <img className="w-[90px] h-[20px]" src="../../public/Nexcent.png" alt="" />
+          <img className="w-[20px] h-[20px]" src="./Icon (1).png" alt="" />
+          <img className="w-[90px] h-[20px]" src="./Nexcent.png" alt="" />
         </div>
 
         <div className="flex flex-wrap justify-center sm:flex-row gap-4 sm:gap-8">
@@ -50,7 +50,7 @@ const Header = () => {
           <img      className="w-full max-w-[300px] sm:max-w-[391px] h-auto object-contain"
 
           
-            src="../../public/Illustration.png"
+            src="./Illustration.png"
             alt="Illustration"
           />
         </div>

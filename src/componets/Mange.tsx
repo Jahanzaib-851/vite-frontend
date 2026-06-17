@@ -17,7 +17,7 @@ const Mange = () => {
 
         <div className="flex flex-col h-[100%]  w-[80%] items-center text-center bg-white border border-gray-100 p-4 rounded-lg shadow-sm hover:shadow-md transition-shadow">
           <div className="flex justify-center           items-center mb-4">
-            <img className="w-[50px] h-[50px] object-contain" src="../../public/Icon (6).png" alt="" />
+            <img className="w-[50px] h-[50px] object-contain" src="./Icon (6).png" alt="" />
           </div>
           <h3 className="text-xl   font-bold w-[130px] text-gray-700 px-4 mb-2">
             Membership Organisations
@@ -29,7 +29,7 @@ const Mange = () => {
 
         <div className="flex flex-col h-[100%]  w-[80%] items-center text-center bg-white border border-gray-100 p-4 rounded-lg shadow-sm hover:shadow-md transition-shadow">
           <div className="flex justify-center         items-center mb-4">
-            <img className="w-[50px] h-[50px] object-contain" src="../../public/Icon (6).png" alt="" />
+            <img className="w-[50px] h-[50px] object-contain" src="./Icon (6).png" alt="" />
           </div>
           <h3 className="text-xl  font-bold w-[200px] text-gray-700 px-4 mb-2">
             National Associations
@@ -40,7 +40,7 @@ const Mange = () => {
         </div>
         <div className="flex flex-col h-[100%]  w-[80%] items-center text-center bg-white border border-gray-100 p-4 rounded-lg shadow-sm hover:shadow-md transition-shadow">
           <div className="flex justify-center           items-center mb-4">
-            <img className="w-[50px] h-[50px] object-contain" src="../../public/Icon (6).png" alt="" />
+            <img className="w-[50px] h-[50px] object-contain" src="./Icon (6).png" alt="" />
           </div>
           <h3 className="text-xl  font-bold w-[100%] text-gray-700 px-4 mb-2">
             Clubs And Groups

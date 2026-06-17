@@ -8,7 +8,7 @@ const Foooter = () => {
     <div className="flex flex-col sm:flex-row flex-wrap md:flex-nowrap p-10 bg-black gap-10 sm:gap-6 justify-between text-left">
 
       <div className="w-full sm:w-[45%] md:w-[30%] flex flex-col gap-4">
-        <img className="w-[70px] h-[30px] object-contain" src="../../public/Nexcent.png" alt="Logo" />
+        <img className="w-[70px] h-[30px] object-contain" src="./Nexcent.png" alt="Logo" />
         <div>
           <p className="text-gray-400 text-sm">Copyright © 2020 Nexcent ltd.</p>
           <p className="text-gray-400 text-sm">All rights reserved</p>
