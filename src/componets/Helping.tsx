@@ -30,7 +30,7 @@ return(
             <div className="  flex flex-row items-center">
 
 
-                <img className="w-[50px] h-[50px]" src="./public/Icon.png" alt="" />
+                <img className="w-[50px] h-[50px]" src="./Icon.png" alt="" />
 
                 <div className="flex flex-col ">
 
