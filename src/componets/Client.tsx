@@ -28,7 +28,7 @@ const Client = () => {
 
             <img src="./8logo.png" alt="" className="   w-[50px] h-[50px]      sm:w-[60px]    sm:h-[60px] " /></div>  
 
-          <div className="flex gap-28 flex-row">   <img src="./public/9logo.png" alt="" className="  w-[50px] h-[50px]   sm:w-[60px]   sm:h-[60px] " />
+          <div className="flex gap-28 flex-row">   <img src="./9logo.png" alt="" className="  w-[50px] h-[50px]   sm:w-[60px]   sm:h-[60px] " />
 
             <img src="./Logo (4).png" alt="" className="  w-[50px] h-[50px]   sm:w-[60px]   sm:h-[60px] " />
 
