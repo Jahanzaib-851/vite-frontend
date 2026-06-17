@@ -6,7 +6,7 @@ const Design = () => {
 
       <div>
 
-        <img className="  ml-12  sm:ml-16 mt-3  w-[60%] h-[100%] " src="../../public/pana.png" alt="" />
+        <img className="  ml-12  sm:ml-16 mt-3  w-[60%] h-[100%] " src="./public/pana.png" alt="" />
 
 
       </div>
